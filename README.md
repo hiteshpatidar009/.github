@@ -1,131 +1,103 @@
-<!-- Animated Header -->
+<!-- Title with Typing Animation (Always Works) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=1AF7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Hitesh+Patidar+👋;Full+Stack+MERN+Developer;React+Native+Learner;WordPress+Developer;UI%2FUX+Designer+%7C+Figma+Expert;Building+Modern+Web+%26+Mobile+Apps+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Hitesh+Patidar+👋;Full+Stack+MERN+Developer;React+Native+Learner;WordPress+Developer;UI%2FUX+Designer+%7C+Figma+Expert" />
 </p>
 
 ---
 
-<!-- Wave SVG -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+## 👨‍💻 About Me
+
+Hi! I'm **Hitesh Patidar**, a passionate **Full Stack MERN Developer** who loves building  
+modern, scalable, UI-focused web & mobile apps.
+
+- 🌱 Learning: **React Native & WordPress Development**
+- 🎨 Designing pixel-perfect UI in **Figma**
+- 🚀 Building full-stack apps using **MERN + Tailwind**
+- 🎯 Goal: Become a **Top 1% Developer**
+- 💡 Loves: UI/UX, animations, dashboards & problem solving
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+## 🛠 Tech Stack
 
-### 👨‍💻 Who Am I?
-I'm **Hitesh Patidar**, a passionate **MERN Stack Developer**, growing into **React Native** and **WordPress** development.  
-I love building **clean UIs**, **smooth experiences**, and **high-performance applications**.
+### 🚀 Frontend
+**React • React Native • JavaScript • TailwindCSS • HTML • CSS**
 
-### ⭐ My Vision  
-To become a **Top 1% Developer** in 5 years through  
-✔ Learning  
-✔ Building  
-✔ Contributing  
-✔ Improving every day  
+### 🖥 Backend
+**Node.js • Express.js • MongoDB**
 
-### 💡 What I love  
-- Creating beautiful UI with **Figma + React + Tailwind**  
-- Building scalable **backend systems**  
-- Turning ideas into working products  
-- Solving problems & writing clean code  
+### 🎨 Designing
+**Figma** (Wireframes, UI Kits, Components)
 
----
+### 📝 CMS
+**WordPress**
 
-<!-- Tech Section -->
-<h2 align="center">🛠️ Tech Stack</h2>
+### ⚙ Tools & DevOps
+**GitHub • VS Code • Vercel • Render**
+
+<br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,js,ts,html,css,tailwind,wordpress,figma,vscode,github,vercel,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nodejs,express,mongodb,js,html,css,tailwind,wordpress,figma,github,vscode,vercel,bootstrap" />
 </p>
 
-### ✔ Frontend  
-React • React Native • TailwindCSS • JavaScript • TypeScript  
-
-### ✔ Backend  
-NodeJS • Express • MongoDB  
-
-### ✔ CMS  
-WordPress  
-
-### ✔ Design  
-Figma • UI/UX  
-
-### ✔ Tools  
-VS Code • Render • Vercel • GitHub  
-
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+## 📌 Featured Projects
 
----
-
-<h2 align="center">📌 Featured Projects</h2>
-
-### 🔥 **NAMOH Spices — MERN E-commerce**  
-🛒 Cart | 🎨 UI | 🔐 Auth | 📦 Admin Panel  
+### 🔥 **NAMOH Spices — MERN E-Commerce**
+Full e-commerce: Cart, Admin Panel, Auth, Razorpay  
 🔗 https://github.com/hiteshpatidar009/NAMOH-MERN-
 
 ---
 
-### 💉 **Blood Donation Platform — MERN**  
-Connect donors and hospitals with clean UI  
+### 💉 **Blood Donation Platform**
+Donor → Hospital connection system  
 🔗 https://github.com/hiteshpatidar009/Blood-Donation
 
 ---
 
-### 🚜 **KrishiPath — Farmer to Mandi System**  
-Organizes produce, transport, and mandi collaboration  
-🔗 Private repo (Your project)
+### 🚜 **KrishiPath — Farmer to Mandi System**
+Organizing multiple farmers produce  
+🔗 (Private repo available with you)
 
 ---
 
-### 🔐 **Email Verification MERN System**  
-JWT + Nodemailer + MongoDB  
+### 🔐 **Email Verification MERN**
+Secure backend + OTP verification  
 🔗 https://github.com/hiteshpatidar009
 
 ---
 
-### 📊 **Healthcare Dashboard UI**  
-Pixel-perfect React dashboard  
+### 📊 **Healthcare Dashboard**
+Pixel-perfect responsive UI  
 🔗 https://github.com/hiteshpatidar009
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
+## 📈 GitHub Stats (REAL & Stable)
 
 <div align="center">
-  
-  <!-- Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hiteshpatidar009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com/?user=hiteshpatidar009&theme=tokyonight&hide_border=true" height="170"/>
+<!-- Stats - Always Works -->
+<img src="https://github-readme-stats.vercel.app/api?username=hiteshpatidar009&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=hiteshpatidar009&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
 ---
 
-<h3 align="center">📊 Most Used Languages</h3>
+## 📊 Languages (No Fake %)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpatidar009&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpatidar009&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake Animation</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
----
-
-<h2 align="center">📉 Contribution Activity Graph</h2>
+## 📉 Contribution Activity (Real Graph)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshpatidar009&theme=react-dark&hide_border=true" />
@@ -133,23 +105,17 @@ Pixel-perfect React dashboard
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/laser.png" width="100%" />
-
----
-
-<h2 align="center">🔗 Connect With Me</h2>
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/hiteshpatidar009">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:hiteshpatidar009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">⭐ If you like my work, star my repositories!</h2>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
+<h3 align="center">⭐ If you like my work, please star my repositories!</h3>
