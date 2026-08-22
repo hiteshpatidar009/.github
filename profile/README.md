@@ -1,14 +1,16 @@
 # Hi, I'm Hitesh Patidar 👋
 
-### Full-Stack Developer | React & React Native Developer | Cloud & Deployment
+### Full-Stack Developer | React & React Native Developer | Cloud, Hosting & Deployment
 
-I’m a developer who enjoys turning ideas into production-ready web and mobile products. My work spans **frontend development, backend APIs, mobile applications, databases, cloud deployment, and app-store publishing**.
+I’m a developer who enjoys turning ideas into production-ready web and mobile products. My work spans **frontend development, backend APIs, mobile applications, databases, cloud infrastructure, hosting, deployment, and app-store publishing**.
 
 I’m especially interested in building practical products that solve real business problems — from e-commerce and agriculture platforms to care applications and mobile apps.
 
-- 💻 Currently building with **React, React Native, Node.js, TypeScript and MongoDB**
+- 💻 Building with **React, React Native, Node.js, TypeScript and MongoDB**
 - ☁️ Working with **AWS, Firebase, CloudFront, S3, Nginx and PM2**
+- 🌐 Experienced with **Hostinger, GoDaddy, cPanel, Railway and Vercel**
 - 📱 Building and deploying **Android/iOS apps with Expo, Capacitor and native Android tooling**
+- 🍎 Working with **Apple App Store** and **Google Play Console** release workflows
 - 🚀 Interested in **scalable systems, clean UI/UX, automation and real-world product development**
 - 🎯 Long-term goal: become a **top-level software engineer and product builder**
 
@@ -16,9 +18,9 @@ I’m especially interested in building practical products that solve real busin
 
 ## 🧑‍💻 About Me
 
-I started with the fundamentals of web development and gradually moved into full-stack and mobile development. Today, I work across the complete development lifecycle — from designing interfaces and writing APIs to configuring infrastructure and shipping applications.
+I started with the fundamentals of web development and gradually moved into full-stack and mobile development. Today, I work across the complete development lifecycle — from designing interfaces and writing APIs to configuring domains, hosting, servers, cloud infrastructure and shipping applications.
 
-I enjoy learning by building. Many of my projects are based on real product ideas rather than isolated coding exercises, which has given me hands-on experience with authentication, CRUD systems, databases, APIs, e-commerce flows, dashboards, deployment, mobile builds and production debugging.
+I enjoy learning by building. Many of my projects are based on real product ideas rather than isolated coding exercises, which has given me hands-on experience with authentication, CRUD systems, databases, APIs, e-commerce flows, dashboards, deployment, mobile builds, app-store releases and production debugging.
 
 ### What I work on
 
@@ -29,6 +31,8 @@ I enjoy learning by building. Many of my projects are based on real product idea
 - 🎨 Responsive interfaces with **Tailwind CSS, DaisyUI and modern animation libraries**
 - ☁️ Cloud deployments using **AWS and related infrastructure**
 - 🔥 Firebase-based application services and integrations
+- 🌐 Domains, DNS, hosting and production website deployment
+- 🖥️ Server configuration with **Ubuntu, Nginx and PM2**
 - 🔐 Authentication, APIs, validation and application security fundamentals
 - 📦 Production builds, deployment, debugging and release management
 
@@ -59,16 +63,18 @@ I enjoy learning by building. Many of my projects are based on real product idea
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### Cloud, DevOps & Tools
+### Cloud, Hosting, DevOps & Tools
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-**Also experienced with:** PM2, CloudFront, Amazon S3, REST APIs, JWT-based authentication, MongoDB Atlas, Gradle, EAS Build, responsive UI, deployment pipelines and production debugging.
+**Also experienced with:** PM2, CloudFront, Amazon S3, MongoDB Atlas, Gradle, EAS Build, cPanel, Hostinger, GoDaddy, domain/DNS management, SSL/HTTPS, REST APIs, JWT authentication, responsive UI, deployment pipelines and production debugging.
 
 ---
 
@@ -142,23 +148,69 @@ You can explore the complete collection on my GitHub profile.
 
 ---
 
-## ☁️ Deployment & Production Experience
+## ☁️ Cloud, Hosting & App Deployment
 
-Beyond writing application code, I’ve worked through real deployment and release problems, including:
+I have hands-on experience taking applications from local development to live production environments, including web hosting, domains, servers, cloud infrastructure and mobile app stores.
 
-- AWS EC2 / Ubuntu server management
+### ☁️ Cloud & Servers
+
+- **AWS EC2** — Ubuntu server setup, application hosting and server management
+- **AWS S3** — static website hosting and asset storage
+- **AWS CloudFront** — CDN configuration, distributions and caching
+- **Nginx** — reverse proxy, routing and web-server configuration
+- **PM2** — Node.js process management and production services
+- **Firebase** — application services, configuration and deployment-related setup
+- **MongoDB Atlas** — cloud database deployment and connection management
+
+### 🌐 Hosting & Domains
+
+- **Hostinger** — website hosting and domain-based deployments
+- **GoDaddy** — domain registration, DNS and domain configuration
+- **cPanel** — React/Vite website deployment, file management and hosting configuration
+- **Vercel** — modern frontend deployment and hosting
+- **Railway** — backend/application deployment and hosted services
+
+### 🔐 Web & API Infrastructure
+
+- Domain and DNS configuration
+- Custom domains and subdomains
+- SSL certificates and HTTPS
 - Nginx reverse proxy configuration
-- PM2 process management
-- HTTPS and SSL configuration
-- AWS S3 static hosting
-- CloudFront distributions and caching
 - API deployment and CORS configuration
-- Firebase configuration and billing setup
-- Android builds with Gradle and Android Studio
-- AAB generation and Play Console releases
-- Capacitor-based Android application packaging
-- EAS/Expo build workflows
-- Debugging production logs and infrastructure issues
+- Environment variables and production configuration
+- Static frontend deployment
+- Node.js backend deployment
+- Production log debugging and server troubleshooting
+
+### 📱 Mobile App Deployment
+
+- **Google Play Console** — app testing, closed testing, production releases, AAB uploads, store listing and policy/review workflows
+- **Apple App Store** — iOS application build and publishing/release workflow
+- **Expo / EAS Build** — Android and iOS application builds
+- **Capacitor** — web/PWA applications packaged for Android/iOS
+- **Android Studio & Gradle** — native Android configuration, builds and release troubleshooting
+
+This experience has given me practical knowledge of not only building applications, but also **getting them live and maintaining them in production**.
+
+---
+
+## 🔧 Real-World Engineering Experience
+
+Some of the problems I’ve worked through include:
+
+- Production API and CORS issues
+- Nginx routing and reverse-proxy configuration
+- SSL/HTTPS and redirect problems
+- AWS S3 and CloudFront configuration
+- Node.js processes and PM2 troubleshooting
+- Firebase configuration and billing issues
+- Android Gradle and Java/JDK compatibility problems
+- Capacitor package and Android build issues
+- Play Console testing, review and policy requirements
+- App signing, upload keys and AAB release workflows
+- React/Vite deployment and blank-screen issues
+- Database connectivity and MongoDB Atlas configuration
+- Git/GitHub merge conflicts and repository management
 
 ---
 
@@ -191,7 +243,9 @@ Full-Stack Product Development
         ↓
 React Native + Expo + Mobile Apps
         ↓
-AWS + Firebase + Deployment
+AWS + Firebase + Hosting
+        ↓
+App Store & Play Store Deployment
         ↓
 Production Systems + Automation + AI
         ↓
@@ -207,6 +261,8 @@ Building Better Products 🚀
 > Learn by solving real problems.
 >
 > Write code that people can actually use.
+>
+> Understand the full journey from code to production.
 >
 > Keep improving every day.
 
