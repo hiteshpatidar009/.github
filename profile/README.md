@@ -1,184 +1,161 @@
 <div align="center">
 
-# 👋 Hi, I'm Hitesh Patidar
+# Hitesh Patidar
 
-### Full-Stack Developer • React • React Native • Node.js
+### Full-Stack Developer · Web & Mobile
 
-Building practical web & mobile products, from **development to deployment**.
+I build practical products with **React, React Native, Node.js, and MongoDB** — from UI and APIs to deployment.
 
 <p>
-  <a href="https://github.com/hiteshpatidar009"><img src="https://img.shields.io/badge/GitHub-hiteshpatidar009-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:hiteshpatidar009@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://hiteshpatidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hiteshpatidar.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/hiteshpatidar009"><img src="https://img.shields.io/badge/GitHub-hiteshpatidar009-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:hiteshpatidar009@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👋 About
 
-I’m a developer focused on building **real-world web and mobile applications**.
+I’m a full-stack developer who enjoys turning ideas into working web and mobile applications.
 
-I work across the product lifecycle — from **UI development and backend APIs** to **databases, hosting, cloud setup, deployment, debugging, and mobile app releases**.
-
-I enjoy learning by building and improving projects through practical development.
+My work covers **frontend development, mobile apps, backend APIs, databases, hosting, and deployment**. I learn by building real products and solving the problems that come with getting them into production.
 
 ---
 
-## 🧑‍💻 What I Work With
+## 🧩 What I Build
 
-### Frontend
+<table>
+<tr>
+<td width="33%" valign="top">
 
-`React` `JavaScript` `TypeScript` `HTML` `CSS` `Vite` `Tailwind CSS`
+### 🌐 Web
 
-### Mobile
+React applications, responsive interfaces, dashboards, and full-stack products.
 
-`React Native` `Expo` `Capacitor` `Android` `Gradle`
+</td>
+<td width="33%" valign="top">
 
-### Backend
+### 📱 Mobile
 
-`Node.js` `Express.js` `REST APIs` `JWT` `API Validation`
+React Native applications with Expo and Android build/release workflows.
 
-### Database
+</td>
+<td width="33%" valign="top">
 
-`MongoDB` `MongoDB Atlas` `PostgreSQL`
+### ⚙️ Backend
 
-### Cloud, Hosting & Deployment
+Node.js + Express APIs, MongoDB-backed applications, integrations, and production setup.
 
-`AWS` `Firebase` `Vercel` `Railway` `Hostinger` `GoDaddy` `cPanel` `Nginx` `PM2` `CloudFront` `Amazon S3`
-
-### Tools
-
-`Git` `GitHub` `Android Studio` `EAS Build`
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,html,css,tailwind,vite,reactnative,expo,aws,firebase,vercel,git,github,androidstudio" alt="Technologies I use" />
 </p>
 
----
-
-## 📌 Projects I've Worked On
-
-### 🌾 KrishiPath
-Agriculture-focused application and platform work involving web/mobile development and real-world product workflows.
-
-🔗 [KrishiPath](https://github.com/hiteshpatidar009/Krishipath)
-
-### 👨‍👩‍👧 JRSR
-Web and mobile application work for a family-care product, including application flows, notifications, deployment, and production-focused development.
-
-🔗 [JRSR](https://github.com/hiteshpatidar009/JRSR)
-
-### 🛒 NAMOH MERN
-Full-stack e-commerce project built around the MERN stack.
-
-🔗 [Namoh MERN](https://github.com/hiteshpatidar009/Namoh-MERN-)
-
-### 🛠️ Sparito
-Mobile e-commerce application work for two-wheeler spare parts using React Native / Expo.
-
-🔗 [Sparito](https://github.com/hiteshpatidar009/sparito)
-
-### 🎨 DesignBazaar
-Full-stack marketplace-style project with frontend and backend development.
-
-🔗 [DesignBazaar](https://github.com/hiteshpatidar009/DesignBazaar)
+<table>
+<tr>
+<td><b>Frontend</b></td>
+<td>React · JavaScript · TypeScript · HTML · CSS · Vite · Tailwind CSS</td>
+</tr>
+<tr>
+<td><b>Mobile</b></td>
+<td>React Native · Expo · Android · Gradle</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>Node.js · Express.js · REST APIs</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>MongoDB · MongoDB Atlas · PostgreSQL</td>
+</tr>
+<tr>
+<td><b>Cloud & Deployment</b></td>
+<td>AWS · Firebase · Vercel · Railway · Nginx · PM2 · S3 · CloudFront</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>Git · GitHub · Android Studio · EAS Build</td>
+</tr>
+</table>
 
 ---
 
-## ☁️ Deployment & Production
+## 🚀 Selected Work
 
-I also work with the part that comes **after coding**:
+| Project | What I worked on |
+| --- | --- |
+| **[KrishiPath](https://github.com/hiteshpatidar009/Krishipath)** | Agriculture-focused web and mobile product development. |
+| **[JRSR](https://github.com/hiteshpatidar009/JRSR)** | Web and mobile product development with application workflows and production deployment work. |
+| **[NAMOH MERN](https://github.com/hiteshpatidar009/Namoh-MERN-)** | Full-stack e-commerce application built with the MERN stack. |
+| **[Sparito](https://github.com/hiteshpatidar009/sparito)** | React Native / Expo mobile e-commerce application for two-wheeler spare parts. |
+| **[DesignBazaar](https://github.com/hiteshpatidar009/DesignBazaar)** | Full-stack marketplace-style application. |
+
+> More projects and details are available on my [portfolio](https://hiteshpatidar.vercel.app).
+
+---
+
+## ☁️ From Code to Production
 
 ```text
-Development
-    ↓
-Build & Configuration
-    ↓
-Backend / Database Setup
-    ↓
-Domain & DNS
-    ↓
-Hosting / Cloud Deployment
-    ↓
-SSL / Nginx / Process Management
-    ↓
+Idea
+ ↓
+UI / Frontend
+ ↓
+Backend APIs + Database
+ ↓
 Testing & Debugging
-    ↓
+ ↓
+Hosting / Cloud
+ ↓
+Domain + SSL + Server Setup
+ ↓
 Production 🚀
 ```
 
-### Experience
-
-- AWS server and storage setup
-- S3 + CloudFront configuration
-- Firebase services and integrations
-- Nginx reverse proxy configuration
-- PM2 process management
-- Domain / DNS configuration
-- SSL / HTTPS setup
-- Vercel and Railway deployments
-- Android builds and release workflows
-- Google Play Console
-- Apple App Store workflows
-- Production debugging and deployment troubleshooting
+I’m comfortable working beyond the code itself — including hosting setup, deployment, environment configuration, server processes, domains, and production troubleshooting.
 
 ---
 
-## 📚 Currently Improving
+## 📈 GitHub
 
-- Advanced React development
-- React Native and mobile development
-- Node.js backend architecture
-- Cloud and AWS infrastructure
-- Database design
-- System design
-- AI/ML concepts and integrations
-- Performance and production optimization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiteshpatidar009&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpatidar009&layout=compact&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
----
-
-## 🎯 My Approach
-
-> **Build real things. Learn from real problems. Improve every day.**
-
-I prefer practical development where I can understand the complete journey from **idea → code → deployment → production**.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshpatidar009&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Currently Improving
+
+React · React Native · Node.js backend architecture · Cloud deployment · Database design · System design · Performance
+
+---
+
+## 🔗 Find Me
+
+<p align="center">
+  <a href="https://hiteshpatidar.vercel.app"><b>Portfolio</b></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/hiteshpatidar009"><b>GitHub</b></a>
+  &nbsp; · &nbsp;
+  <a href="mailto:hiteshpatidar009@gmail.com"><b>Email</b></a>
+</p>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshpatidar009&show_icons=true&hide_border=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpatidar009&layout=compact&hide_border=true" height="165" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting 👋
-
-⭐ Feel free to explore my repositories.
+### Build. Ship. Improve. 🚀
 
 </div>
