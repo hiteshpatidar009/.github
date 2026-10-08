@@ -1,206 +1,316 @@
-# Hitesh Patidar
+<div align="center">
 
-### Software Engineer | Backend & Full-Stack Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Hitesh%20Patidar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Hitesh Patidar — Software Engineer" width="100%" />
 
-**1.5+ years of experience building backend systems, full-stack applications, APIs, mobile products, and production infrastructure.**
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1200&deleteSpeed=60&color=2563EB&center=true&vCenter=true&width=950&lines=Backend+Engineering+%7C+Full-Stack+Development;Node.js+%7C+TypeScript+%7C+Express.js;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+Prisma;BullMQ+%7C+REST+APIs+%7C+Authentication+%7C+RBAC;AWS+%7C+Nginx+%7C+Docker+%7C+Firebase;React+%7C+React+Native+%7C+Production+Development" alt="Typing animation" />
+</a>
 
-I work across the application stack with a strong focus on **backend engineering, API development, databases, caching, queues, authentication, cloud infrastructure, and production development**, while also building web and mobile interfaces with React and React Native.
+<p>
+  <a href="https://www.linkedin.com/in/hiteshpatidar009/"><img src="https://img.shields.io/badge/LinkedIn-Hitesh%20Patidar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/hiteshpatidar009"><img src="https://img.shields.io/badge/GitHub-hiteshpatidar009-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://hiteshpatidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hiteshpatidar.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
----
-
-## 👨‍💻 About Me
-
-I’m a Software Engineer focused on building practical, maintainable software and taking products from development through deployment.
-
-My core engineering work includes:
-
-- Designing and developing **REST APIs and backend services**
-- Working with **PostgreSQL, MongoDB and Redis**
-- Building background processing and job systems with **BullMQ**
-- Implementing **authentication and RBAC**
-- Developing full-stack applications with **React, Node.js and TypeScript**
-- Building mobile applications with **React Native**
-- Working with **AWS, Nginx and Docker**
-- Integrating external platforms and services through **webhooks and APIs**
-- Working with services such as **Razorpay, Twilio, Shopify, OpenAI and Gemini**
-
-I enjoy working across the complete product lifecycle — from application architecture and implementation to infrastructure and deployment.
+</div>
 
 ---
 
-## 💼 Professional Experience
+## 👋 About Me
+
+I’m **Hitesh Patidar**, a **Software Engineer | Backend & Full-Stack Developer** with **1.5+ years of experience** building and working on web, mobile and backend systems.
+
+My strongest focus is on the **backend and the systems behind an application** — APIs, databases, caching, background jobs, authentication, RBAC, integrations and cloud infrastructure — while also working comfortably across **React and React Native** when a product requires full-stack ownership.
+
+I care about understanding the complete path from **request → business logic → data → async processing → response → deployment**.
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ### Royal IT Service
-**Software Engineer**  
+**Software Engineer**
+
 **July 2025 – Present**
 
-Working as a Software Engineer across backend and full-stack development, with a focus on application development, APIs, databases, integrations, and production systems.
+Working as a Software Engineer across backend and full-stack development, with focus on application development, APIs, databases, integrations and production systems.
+
+</td>
+<td width="45%" valign="top">
 
 ### Ypsilon IT Solutions Pvt. Ltd.
-**MERN Developer Intern**  
+**MERN Developer Intern**
+
 **November 2024 – April 2025**
 
-Worked on MERN-stack development and gained practical experience building web applications and working with modern JavaScript technologies.
+Worked with the MERN stack and gained professional experience building web applications with modern JavaScript technologies.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Core Technologies
+## 🧠 Core Engineering Stack
 
-### Backend
-**Node.js · TypeScript · JavaScript · Express.js · REST APIs**
+<table>
+<tr>
+<th align="left">Backend</th>
+<th align="left">Data & Async</th>
+<th align="left">Frontend & Mobile</th>
+<th align="left">Cloud & Infrastructure</th>
+</tr>
+<tr>
+<td valign="top">
 
-### Databases & Data
-**PostgreSQL · MongoDB · Redis · Prisma**
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<br><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<br><img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+<br><img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge" />
+<br><img src="https://img.shields.io/badge/RBAC-111827?style=for-the-badge" />
 
-### Background Processing
-**BullMQ · Redis**
+</td>
+<td valign="top">
 
-### Frontend
-**React · JavaScript · TypeScript**
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<br><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<br><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<br><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<br><img src="https://img.shields.io/badge/BullMQ-111827?style=for-the-badge" />
+<br><img src="https://img.shields.io/badge/Caching-111827?style=for-the-badge" />
 
-### Mobile
-**React Native**
+</td>
+<td valign="top">
 
-### Cloud & Infrastructure
-**AWS · Nginx · Docker · Firebase**
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+<br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### Authentication & Access Control
-**Authentication · RBAC**
+</td>
+<td valign="top">
 
-### Integrations & Platforms
-**Razorpay · Twilio · Shopify · OpenAI · Gemini · Webhooks**
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<br><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<br><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<br><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
+
+</td>
+</tr>
+</table>
+
+### 🔌 Integrations & Platform APIs
+
+<p>
+<img src="https://img.shields.io/badge/Razorpay-0C0C0C?style=for-the-badge&logo=razorpay&logoColor=3395FF" />
+<img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" />
+<img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-111827?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 Current Projects
 
-### 1. Jr. Sr. Care — Family Care Ecosystem
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A family-care ecosystem focused on building digital experiences around family care.
+### 👨‍👩‍👧 Jr. Sr. Care
+**Family Care Ecosystem**
 
-**Role:** Led technical delivery.
+**Role:** Led technical delivery
 
-**Focus:** Full-stack development, application architecture, APIs, mobile/web development and production delivery.
+A family-care ecosystem currently under development.
 
-### 2. OnesOff — Rental Marketplace Platform
+**Engineering:** Full-stack development · APIs · mobile/web development · production delivery
 
-A rental marketplace platform involving multiple application and business workflows.
+</td>
+<td width="50%" valign="top">
 
-**Role:** Contributed to the platform.
+### 🏠 OnesOff
+**Rental Marketplace Platform**
 
-> This project is intentionally described as a contribution rather than claiming full product ownership.
+**Role:** Contributed to the platform
 
-**Focus:** Full-stack development, backend services, APIs and platform development.
+A rental marketplace platform currently under development.
 
-### 3. Sparito — Spare Parts & Mechanic Ecosystem
+**Engineering:** Full-stack development · backend services · APIs · platform development
 
-A platform focused on two-wheeler spare parts and mechanic-related workflows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Role:** Delivered end-to-end technical development.
+### 🛵 Sparito
+**Spare Parts & Mechanic Ecosystem**
 
-**Focus:** Backend, APIs, databases, web/mobile development and production implementation.
+**Role:** Delivered end-to-end technical development
 
-### 4. Grabky — Garage Booking Platform
+A platform focused on spare-parts and mechanic-related workflows.
+
+**Engineering:** Backend · APIs · databases · web/mobile development · production implementation
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Grabky
+**Garage Booking Platform**
+
+**Role:** Led software architecture
 
 A platform focused on garage and service-booking workflows.
 
-**Role:** Led software architecture.
+**Engineering:** Backend architecture · APIs · application design · platform development
 
-**Focus:** Backend architecture, APIs, application design and platform development.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 5. PgClient — PostgreSQL Desktop Client
+### 🗄️ PgClient
+**PostgreSQL Desktop Client**
 
-An independent project focused on building a desktop client for working with PostgreSQL databases.
+**Role:** Independent / Personal Project
 
-**Role:** Independent / Personal Project.
+A personal project focused on a desktop client for working with PostgreSQL databases.
 
-**Focus:** PostgreSQL, database tooling and application development.
+**Engineering:** PostgreSQL · database tooling · application development
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Product Development
+**Backend-first, full-stack execution**
+
+Across these projects, my work spans APIs, data layers, async processing, authentication, integrations, web/mobile interfaces and production infrastructure.
+
+**Approach:** Design → Build → Integrate → Deploy → Improve
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏗️ Engineering Focus
+## 🏗️ How I Think About Systems
 
-I’m particularly interested in engineering systems that are reliable, maintainable and practical to operate.
+```text
+                 CLIENTS
+          Web • Mobile • External APIs
+                     │
+                     ▼
+              ┌──────────────┐
+              │   REST APIs  │
+              │ Node/Express │
+              └──────┬───────┘
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+      Auth/RBAC    Redis      Webhooks
+          │          │          │
+          │          ▼          │
+          │       BullMQ       │
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+          ┌────────────────────┐
+          │ PostgreSQL / Mongo │
+          │      + Prisma      │
+          └─────────┬──────────┘
+                    │
+                    ▼
+            Cloud / Infrastructure
+               AWS • Nginx • Docker
+```
 
-### Backend Engineering
-- REST API design
-- Node.js and Express.js
-- TypeScript
-- Authentication
-- RBAC
-- Webhooks
+This reflects the areas I work with rather than a claim that every project uses every component above.
+
+---
+
+## ☁️ Cloud, Hosting & Production
+
+### Infrastructure
+
+`AWS` · `Nginx` · `Docker` · `Firebase`
+
+### Hosting & Deployment
+
+`Vercel` · `Railway` · `Hostinger` · `GoDaddy` · `cPanel`
+
+### Mobile Distribution
+
+`Google Play Console` · `Apple App Store`
+
+I work across application deployment, hosting, server configuration, domains/DNS, production environments and mobile release workflows.
+
+---
+
+## 🔐 Backend Capabilities
+
+<table>
+<tr>
+<td valign="top">
+
+**API Engineering**
+
+- REST API development
+- Backend service development
 - Third-party API integrations
+- Webhook-based integrations
 
-### Data & Performance
+</td>
+<td valign="top">
+
+**Data Engineering**
+
 - PostgreSQL
 - MongoDB
 - Prisma
 - Redis
 - Caching
+
+</td>
+<td valign="top">
+
+**Application Systems**
+
+- Authentication
+- RBAC
 - BullMQ
-- Background jobs and queues
+- Background jobs
+- Full-stack application flows
 
-### Full-Stack Development
-- React
-- Node.js
-- TypeScript
-- API-driven applications
-- React Native mobile applications
-
-### Infrastructure & Production
-- AWS
-- Docker
-- Nginx
-- Firebase
-- Application deployment
-- Production development and infrastructure
-
----
-
-## 🔌 Integrations
-
-I have experience working with external platforms and services including:
-
-- **Razorpay** — payment integration
-- **Twilio** — communication/API integration
-- **Shopify** — platform integration
-- **OpenAI** — AI integration
-- **Gemini** — AI integration
-- **Webhooks** — event-driven integrations
-
----
-
-## ☁️ Cloud, Hosting & Deployment
-
-My development experience also includes taking applications beyond local development into hosted environments.
-
-### Cloud & Infrastructure
-**AWS · Docker · Nginx · Firebase**
-
-### Hosting & Deployment Platforms
-**Vercel · Railway · Hostinger · GoDaddy · cPanel**
-
-### Mobile Distribution
-**Google Play Console · Apple App Store**
-
-I have worked across application deployment, hosting, server configuration, domains/DNS, web infrastructure and mobile application release workflows.
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
 **B.Tech. in Computer Science Engineering**  
-LNCT Group of Colleges  
-**2021 – 2025**  
-**70%**
+**LNCT Group of Colleges**  
+**2021 – 2025 · 70%**
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Find Me Online
 
-- **LinkedIn:** https://www.linkedin.com/in/hiteshpatidar009/
-- **GitHub:** https://github.com/hiteshpatidar009
-- **Portfolio:** https://hiteshpatidar.vercel.app
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hiteshpatidar009/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/hiteshpatidar009"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://hiteshpatidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</div>
 
 ---
 
@@ -208,10 +318,22 @@ LNCT Group of Colleges
 
 > **Build practical software. Understand the system end-to-end. Keep improving.**
 
-I care about understanding not only how to write application code, but also how the **API, database, cache, queue, infrastructure, integrations and application interface** work together as one system.
+```ts
+const Hitesh = {
+  role: "Software Engineer",
+  focus: ["Backend", "Full-Stack", "Production Development"],
+  backend: ["Node.js", "TypeScript", "Express.js"],
+  data: ["PostgreSQL", "MongoDB", "Redis", "Prisma"],
+  async: ["BullMQ", "Webhooks"],
+  frontend: ["React", "React Native"],
+  infrastructure: ["AWS", "Nginx", "Docker", "Firebase"],
+};
+```
 
----
+<div align="center">
 
-<p align="center">
-  <b>Software Engineer • Backend • Full-Stack • Production Development</b>
-</p>
+### Thanks for visiting 👋
+
+**Software Engineer • Backend • Full-Stack • Production Development**
+
+</div>
