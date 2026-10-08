@@ -1,53 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Hitesh%20Patidar&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=60&descSize=18" alt="Hitesh Patidar — Software Engineer" width="100%" />
+<table border="0" width="100%">
+<tr>
+<td width="62%" valign="middle">
+
+<h1>Hitesh Patidar</h1>
+<h3>Software Engineer&nbsp; | &nbsp;Backend &amp; Full-Stack Developer</h3>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=1200&deleteSpeed=60&color=2563EB&center=true&vCenter=true&width=950&lines=Backend+Engineering+%7C+Full-Stack+Development;Node.js+%7C+TypeScript+%7C+Express.js;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+Prisma;BullMQ+%7C+REST+APIs+%7C+Authentication+%7C+RBAC;AWS+%7C+Nginx+%7C+Docker+%7C+Firebase;React+%7C+React+Native+%7C+Production+Development" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=1200&deleteSpeed=60&color=2563EB&center=false&vCenter=true&width=720&lines=Backend+Engineering+%7C+Full-Stack+Development;Node.js+%7C+TypeScript+%7C+Express.js;PostgreSQL+%7C+MongoDB+%7C+Redis+%7C+Prisma;BullMQ+%7C+REST+APIs+%7C+Authentication+%7C+RBAC;AWS+%7C+Nginx+%7C+Docker+%7C+Firebase;React+%7C+React+Native+%7C+Production+Development" alt="Hitesh Patidar technology focus" />
 </a>
 
+<br>
+
 <p>
-  <a href="https://www.linkedin.com/in/hiteshpatidar009/"><img src="https://img.shields.io/badge/LinkedIn-Hitesh%20Patidar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/hiteshpatidar009/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/hiteshpatidar009"><img src="https://img.shields.io/badge/GitHub-hiteshpatidar009-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://hiteshpatidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hiteshpatidar.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hiteshpatidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/hiteshpatidar009/.github/main/hiteshimg.jpeg" alt="Hitesh Patidar" width="300" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+`1.5+ Years Experience` &nbsp;•&nbsp; `Backend First` &nbsp;•&nbsp; `Full-Stack` &nbsp;•&nbsp; `Web + Mobile`
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I’m **Hitesh Patidar**, a **Software Engineer | Backend & Full-Stack Developer** with **1.5+ years of experience** building and working on web, mobile and backend systems.
+I’m **Hitesh Patidar**, a **Software Engineer | Backend & Full-Stack Developer** with **1.5+ years of experience**.
 
-My strongest focus is on the **backend and the systems behind an application** — APIs, databases, caching, background jobs, authentication, RBAC, integrations and cloud infrastructure — while also working comfortably across **React and React Native** when a product requires full-stack ownership.
+My primary focus is backend engineering: designing and developing **REST APIs**, working with **databases, caching, queues, authentication, RBAC, integrations and cloud infrastructure**. I also work across **React and React Native** when the product requires full-stack or mobile development.
 
-I care about understanding the complete path from **request → business logic → data → async processing → response → deployment**.
+I enjoy understanding the complete system — from the client request and business logic to data storage, asynchronous processing, integrations and production deployment.
+
+<table border="0" width="100%">
+<tr>
+<td width="25%" align="center"><b>⚙️ Backend</b><br>APIs & Services</td>
+<td width="25%" align="center"><b>🗄️ Data</b><br>SQL · NoSQL · Cache</td>
+<td width="25%" align="center"><b>📱 Products</b><br>Web · Mobile</td>
+<td width="25%" align="center"><b>☁️ Production</b><br>Cloud · Infra</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-<table>
+<table border="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### Royal IT Service
 **Software Engineer**
 
 **July 2025 – Present**
 
-Working as a Software Engineer across backend and full-stack development, with focus on application development, APIs, databases, integrations and production systems.
+Software engineering work across backend and full-stack development, including application development, APIs, databases, integrations and production systems.
 
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### Ypsilon IT Solutions Pvt. Ltd.
 **MERN Developer Intern**
 
 **November 2024 – April 2025**
 
-Worked with the MERN stack and gained professional experience building web applications with modern JavaScript technologies.
+Professional experience working with the MERN stack and modern JavaScript-based web application development.
 
 </td>
 </tr>
@@ -55,50 +86,53 @@ Worked with the MERN stack and gained professional experience building web appli
 
 ---
 
-## 🧠 Core Engineering Stack
+## 🧠 Engineering Stack
 
-<table>
+<table border="0" width="100%">
 <tr>
 <th align="left">Backend</th>
-<th align="left">Data & Async</th>
-<th align="left">Frontend & Mobile</th>
-<th align="left">Cloud & Infrastructure</th>
+<th align="left">Databases, Cache &amp; Queues</th>
 </tr>
 <tr>
 <td valign="top">
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<br><img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
-<br><img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge" />
-<br><img src="https://img.shields.io/badge/RBAC-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Authentication-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RBAC-111827?style=for-the-badge" />
 
 </td>
 <td valign="top">
 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<br><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-<br><img src="https://img.shields.io/badge/BullMQ-111827?style=for-the-badge" />
-<br><img src="https://img.shields.io/badge/Caching-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/BullMQ-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Caching-111827?style=for-the-badge" />
 
 </td>
+</tr>
+<tr>
+<th align="left">Frontend &amp; Mobile</th>
+<th align="left">Cloud, Infrastructure &amp; Deployment</th>
+</tr>
+<tr>
 <td valign="top">
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<br><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<br><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-<br><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </td>
 <td valign="top">
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<br><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<br><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
 
 </td>
 </tr>
@@ -119,18 +153,16 @@ Worked with the MERN stack and gained professional experience building web appli
 
 ## 🚀 Current Projects
 
-<table>
+<table border="0" width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 👨‍👩‍👧 Jr. Sr. Care
 **Family Care Ecosystem**
 
-**Role:** Led technical delivery
+**Ownership:** Led technical delivery
 
-A family-care ecosystem currently under development.
-
-**Engineering:** Full-stack development · APIs · mobile/web development · production delivery
+A family-care ecosystem currently being developed.
 
 </td>
 <td width="50%" valign="top">
@@ -138,11 +170,9 @@ A family-care ecosystem currently under development.
 ### 🏠 OnesOff
 **Rental Marketplace Platform**
 
-**Role:** Contributed to the platform
+**Ownership:** Contributed to the platform
 
-A rental marketplace platform currently under development.
-
-**Engineering:** Full-stack development · backend services · APIs · platform development
+A rental marketplace platform currently being developed.
 
 </td>
 </tr>
@@ -152,11 +182,9 @@ A rental marketplace platform currently under development.
 ### 🛵 Sparito
 **Spare Parts & Mechanic Ecosystem**
 
-**Role:** Delivered end-to-end technical development
+**Ownership:** Delivered end-to-end technical development
 
 A platform focused on spare-parts and mechanic-related workflows.
-
-**Engineering:** Backend · APIs · databases · web/mobile development · production implementation
 
 </td>
 <td width="50%" valign="top">
@@ -164,11 +192,9 @@ A platform focused on spare-parts and mechanic-related workflows.
 ### 🔧 Grabky
 **Garage Booking Platform**
 
-**Role:** Led software architecture
+**Ownership:** Led software architecture
 
 A platform focused on garage and service-booking workflows.
-
-**Engineering:** Backend architecture · APIs · application design · platform development
 
 </td>
 </tr>
@@ -178,21 +204,17 @@ A platform focused on garage and service-booking workflows.
 ### 🗄️ PgClient
 **PostgreSQL Desktop Client**
 
-**Role:** Independent / Personal Project
+**Ownership:** Independent / Personal Project
 
-A personal project focused on a desktop client for working with PostgreSQL databases.
-
-**Engineering:** PostgreSQL · database tooling · application development
+A personal desktop-client project focused on PostgreSQL.
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Product Development
-**Backend-first, full-stack execution**
+### 🔗 Project Perspective
+**Backend-first product development**
 
-Across these projects, my work spans APIs, data layers, async processing, authentication, integrations, web/mobile interfaces and production infrastructure.
-
-**Approach:** Design → Build → Integrate → Deploy → Improve
+Across my current work, I operate around APIs, data, queues, authentication, integrations, web/mobile applications and production infrastructure.
 
 </td>
 </tr>
@@ -200,93 +222,109 @@ Across these projects, my work spans APIs, data layers, async processing, authen
 
 ---
 
-## 🏗️ How I Think About Systems
+## 🏗️ Backend Architecture Mindset
+
+<div align="center">
 
 ```text
-                 CLIENTS
-          Web • Mobile • External APIs
-                     │
-                     ▼
-              ┌──────────────┐
-              │   REST APIs  │
-              │ Node/Express │
-              └──────┬───────┘
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-      Auth/RBAC    Redis      Webhooks
-          │          │          │
-          │          ▼          │
-          │       BullMQ       │
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-          ┌────────────────────┐
-          │ PostgreSQL / Mongo │
-          │      + Prisma      │
-          └─────────┬──────────┘
+      Web / Mobile / External Services
                     │
                     ▼
-            Cloud / Infrastructure
-               AWS • Nginx • Docker
+          ┌─────────────────────┐
+          │     REST APIs       │
+          │   Node.js / Express │
+          └──────────┬──────────┘
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+   Authentication  Redis      Webhooks
+       / RBAC        │
+                      ▼
+                   BullMQ
+                      │
+                      ▼
+          ┌─────────────────────┐
+          │ PostgreSQL / MongoDB│
+          │       Prisma        │
+          └──────────┬──────────┘
+                     │
+                     ▼
+            AWS / Nginx / Docker
 ```
 
-This reflects the areas I work with rather than a claim that every project uses every component above.
+</div>
+
+The diagram represents the engineering areas I work with; it does **not** mean every project uses every technology shown.
 
 ---
 
 ## ☁️ Cloud, Hosting & Production
 
-### Infrastructure
+<table border="0" width="100%">
+<tr>
+<td width="33%" valign="top">
 
-`AWS` · `Nginx` · `Docker` · `Firebase`
+### ☁️ Infrastructure
+`AWS`  
+`Nginx`  
+`Docker`  
+`Firebase`
 
-### Hosting & Deployment
+</td>
+<td width="33%" valign="top">
 
-`Vercel` · `Railway` · `Hostinger` · `GoDaddy` · `cPanel`
+### 🌐 Hosting
+`Vercel`  
+`Railway`  
+`Hostinger`  
+`GoDaddy`  
+`cPanel`
 
-### Mobile Distribution
+</td>
+<td width="33%" valign="top">
 
-`Google Play Console` · `Apple App Store`
+### 📱 App Distribution
+`Google Play Console`  
+`Apple App Store`
 
-I work across application deployment, hosting, server configuration, domains/DNS, production environments and mobile release workflows.
+</td>
+</tr>
+</table>
+
+I work with application deployment, hosting, server configuration, domains/DNS, production environments and mobile release workflows.
 
 ---
 
 ## 🔐 Backend Capabilities
 
-<table>
+<table border="0" width="100%">
 <tr>
-<td valign="top">
+<td width="33%" valign="top">
 
-**API Engineering**
-
-- REST API development
-- Backend service development
-- Third-party API integrations
-- Webhook-based integrations
-
-</td>
-<td valign="top">
-
-**Data Engineering**
-
-- PostgreSQL
-- MongoDB
-- Prisma
-- Redis
-- Caching
+### API Engineering
+REST APIs  
+Backend services  
+Webhooks  
+Third-party integrations
 
 </td>
-<td valign="top">
+<td width="33%" valign="top">
 
-**Application Systems**
+### Data & Performance
+PostgreSQL  
+MongoDB  
+Prisma  
+Redis  
+Caching
 
-- Authentication
-- RBAC
-- BullMQ
-- Background jobs
-- Full-stack application flows
+</td>
+<td width="33%" valign="top">
+
+### Application Systems
+Authentication  
+RBAC  
+BullMQ  
+Background jobs
 
 </td>
 </tr>
@@ -296,44 +334,36 @@ I work across application deployment, hosting, server configuration, domains/DNS
 
 ## 🎓 Education
 
-**B.Tech. in Computer Science Engineering**  
+### B.Tech. in Computer Science Engineering
 **LNCT Group of Colleges**  
 **2021 – 2025 · 70%**
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/hiteshpatidar009/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/hiteshpatidar009"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://hiteshpatidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+&nbsp;
+<a href="https://github.com/hiteshpatidar009"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;
+<a href="https://hiteshpatidar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🧭 Engineering Philosophy
 
 > **Build practical software. Understand the system end-to-end. Keep improving.**
 
-```ts
-const Hitesh = {
-  role: "Software Engineer",
-  focus: ["Backend", "Full-Stack", "Production Development"],
-  backend: ["Node.js", "TypeScript", "Express.js"],
-  data: ["PostgreSQL", "MongoDB", "Redis", "Prisma"],
-  async: ["BullMQ", "Webhooks"],
-  frontend: ["React", "React Native"],
-  infrastructure: ["AWS", "Nginx", "Docker", "Firebase"],
-};
-```
+`Backend` · `APIs` · `Data` · `Async Processing` · `Integrations` · `Cloud` · `Full-Stack`
 
-<div align="center">
+<br>
 
-### Thanks for visiting 👋
-
-**Software Engineer • Backend • Full-Stack • Production Development**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=110&section=footer" alt="Footer" width="100%" />
 
 </div>
