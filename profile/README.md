@@ -1,270 +1,217 @@
-<div align="center">
+# Hitesh Patidar
 
-# 👋 Hi, I'm Hitesh Patidar
+### Software Engineer | Backend & Full-Stack Developer
 
-### Full-Stack Developer
+**1.5+ years of experience building backend systems, full-stack applications, APIs, mobile products, and production infrastructure.**
 
-**Web • Mobile • Backend • Deployment**
-
-I build real-world applications and work across the journey from **frontend → backend → database → deployment**.
-
-<p>
-  <a href="https://hiteshpatidar.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-111827?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/hiteshpatidar009">
-    <img src="https://img.shields.io/badge/💻%20GitHub-hiteshpatidar009-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:hiteshpatidar009@gmail.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-Contact%20Me-111827?style=for-the-badge" alt="Email" />
-  </a>
-</p>
-
-</div>
+I work across the application stack with a strong focus on **backend engineering, API development, databases, caching, queues, authentication, cloud infrastructure, and production development**, while also building web and mobile interfaces with React and React Native.
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
-I’m a **full-stack developer** focused on building practical web and mobile products.
+I’m a Software Engineer focused on building practical, maintainable software and taking products from development through deployment.
 
-I enjoy working on the complete development flow: creating interfaces, connecting APIs, working with databases, setting up hosting, deploying applications, and fixing issues that appear in real production environments.
+My core engineering work includes:
 
-I prefer learning through **building, shipping, and improving real products**.
+- Designing and developing **REST APIs and backend services**
+- Working with **PostgreSQL, MongoDB and Redis**
+- Building background processing and job systems with **BullMQ**
+- Implementing **authentication and RBAC**
+- Developing full-stack applications with **React, Node.js and TypeScript**
+- Building mobile applications with **React Native**
+- Working with **AWS, Nginx and Docker**
+- Integrating external platforms and services through **webhooks and APIs**
+- Working with services such as **Razorpay, Twilio, Shopify, OpenAI and Gemini**
 
----
-
-## ⚡ My Core Stack
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Development
-
-**React** · **JavaScript** · **TypeScript**  
-**HTML** · **CSS** · **Vite** · **Tailwind CSS**
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 Mobile Development
-
-**React Native** · **Expo** · **Android**  
-**Gradle** · **EAS Build** · **Android Studio**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-**Node.js** · **Express.js**  
-**REST APIs** · application integrations
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Databases
-
-**MongoDB** · **MongoDB Atlas** · **PostgreSQL**
-
-</td>
-</tr>
-</table>
-
-### ☁️ Cloud & Deployment
-
-`AWS` `Firebase` `Vercel` `Railway` `Nginx` `PM2` `Amazon S3` `CloudFront`
-
-### 🔧 Development Tools
-
-`Git` `GitHub` `Android Studio` `EAS Build`
+I enjoy working across the complete product lifecycle — from application architecture and implementation to infrastructure and deployment.
 
 ---
 
-## 🛠️ Technologies
+## 💼 Professional Experience
+
+### Royal IT Service
+**Software Engineer**  
+**July 2025 – Present**
+
+Working as a Software Engineer across backend and full-stack development, with a focus on application development, APIs, databases, integrations, and production systems.
+
+### Ypsilon IT Solutions Pvt. Ltd.
+**MERN Developer Intern**  
+**November 2024 – April 2025**
+
+Worked on MERN-stack development and gained practical experience building web applications and working with modern JavaScript technologies.
+
+---
+
+## 🧰 Core Technologies
+
+### Backend
+**Node.js · TypeScript · JavaScript · Express.js · REST APIs**
+
+### Databases & Data
+**PostgreSQL · MongoDB · Redis · Prisma**
+
+### Background Processing
+**BullMQ · Redis**
+
+### Frontend
+**React · JavaScript · TypeScript**
+
+### Mobile
+**React Native**
+
+### Cloud & Infrastructure
+**AWS · Nginx · Docker · Firebase**
+
+### Authentication & Access Control
+**Authentication · RBAC**
+
+### Integrations & Platforms
+**Razorpay · Twilio · Shopify · OpenAI · Gemini · Webhooks**
+
+---
+
+## 🚀 Current Projects
+
+### 1. Jr. Sr. Care — Family Care Ecosystem
+
+A family-care ecosystem focused on building digital experiences around family care.
+
+**Role:** Led technical delivery.
+
+**Focus:** Full-stack development, application architecture, APIs, mobile/web development and production delivery.
+
+### 2. OnesOff — Rental Marketplace Platform
+
+A rental marketplace platform involving multiple application and business workflows.
+
+**Role:** Contributed to the platform.
+
+> This project is intentionally described as a contribution rather than claiming full product ownership.
+
+**Focus:** Full-stack development, backend services, APIs and platform development.
+
+### 3. Sparito — Spare Parts & Mechanic Ecosystem
+
+A platform focused on two-wheeler spare parts and mechanic-related workflows.
+
+**Role:** Delivered end-to-end technical development.
+
+**Focus:** Backend, APIs, databases, web/mobile development and production implementation.
+
+### 4. Grabky — Garage Booking Platform
+
+A platform focused on garage and service-booking workflows.
+
+**Role:** Led software architecture.
+
+**Focus:** Backend architecture, APIs, application design and platform development.
+
+### 5. PgClient — PostgreSQL Desktop Client
+
+An independent project focused on building a desktop client for working with PostgreSQL databases.
+
+**Role:** Independent / Personal Project.
+
+**Focus:** PostgreSQL, database tooling and application development.
+
+---
+
+## 🏗️ Engineering Focus
+
+I’m particularly interested in engineering systems that are reliable, maintainable and practical to operate.
+
+### Backend Engineering
+- REST API design
+- Node.js and Express.js
+- TypeScript
+- Authentication
+- RBAC
+- Webhooks
+- Third-party API integrations
+
+### Data & Performance
+- PostgreSQL
+- MongoDB
+- Prisma
+- Redis
+- Caching
+- BullMQ
+- Background jobs and queues
+
+### Full-Stack Development
+- React
+- Node.js
+- TypeScript
+- API-driven applications
+- React Native mobile applications
+
+### Infrastructure & Production
+- AWS
+- Docker
+- Nginx
+- Firebase
+- Application deployment
+- Production development and infrastructure
+
+---
+
+## 🔌 Integrations
+
+I have experience working with external platforms and services including:
+
+- **Razorpay** — payment integration
+- **Twilio** — communication/API integration
+- **Shopify** — platform integration
+- **OpenAI** — AI integration
+- **Gemini** — AI integration
+- **Webhooks** — event-driven integrations
+
+---
+
+## ☁️ Cloud, Hosting & Deployment
+
+My development experience also includes taking applications beyond local development into hosted environments.
+
+### Cloud & Infrastructure
+**AWS · Docker · Nginx · Firebase**
+
+### Hosting & Deployment Platforms
+**Vercel · Railway · Hostinger · GoDaddy · cPanel**
+
+### Mobile Distribution
+**Google Play Console · Apple App Store**
+
+I have worked across application deployment, hosting, server configuration, domains/DNS, web infrastructure and mobile application release workflows.
+
+---
+
+## 🎓 Education
+
+**B.Tech. in Computer Science Engineering**  
+LNCT Group of Colleges  
+**2021 – 2025**  
+**70%**
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/hiteshpatidar009/
+- **GitHub:** https://github.com/hiteshpatidar009
+- **Portfolio:** https://hiteshpatidar.vercel.app
+
+---
+
+## 🧭 Engineering Philosophy
+
+> **Build practical software. Understand the system end-to-end. Keep improving.**
+
+I care about understanding not only how to write application code, but also how the **API, database, cache, queue, infrastructure, integrations and application interface** work together as one system.
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,html,css,tailwind,vite,reactnative,expo,aws,firebase,vercel,git,github,androidstudio" alt="Hitesh Patidar technology stack" />
+  <b>Software Engineer • Backend • Full-Stack • Production Development</b>
 </p>
-
----
-
-## 🚀 Selected Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌾 KrishiPath
-
-A real-world agriculture-focused application with web/mobile development and a backend pipeline for extracting mandi-rate information from video sources.
-
-**Focus:** data processing · backend · MongoDB · web/mobile
-
-<a href="https://github.com/hiteshpatidar009/Krishipath">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 👨‍👩‍👧 JRSR
-
-Web + mobile application development for a family-care product, covering application workflows and production-oriented development.
-
-**Focus:** web · mobile · APIs · deployment
-
-<a href="https://github.com/hiteshpatidar009/JRSR">View Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 NAMOH MERN
-
-A full-stack e-commerce application built around the MERN stack.
-
-**Focus:** React · Node.js · Express · MongoDB
-
-<a href="https://github.com/hiteshpatidar009/Namoh-MERN-">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛵 Sparito
-
-A React Native / Expo mobile e-commerce application for two-wheeler spare parts.
-
-**Focus:** React Native · Expo · mobile UI
-
-<a href="https://github.com/hiteshpatidar009/sparito">View Repository →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 DesignBazaar
-
-A full-stack marketplace-style application covering frontend and backend development.
-
-**Focus:** full-stack · web application · APIs
-
-<a href="https://github.com/hiteshpatidar009/DesignBazaar">View Repository →</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📂 More Work
-
-More projects, experiments, and details are available through my portfolio and GitHub repositories.
-
-<a href="https://hiteshpatidar.vercel.app">Explore Portfolio →</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏗️ How I Work
-
-```text
-┌─────────────┐
-│    Idea     │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│ UI / Frontend│
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│ APIs / Logic│
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│   Database  │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│ Build / Test│
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│ Deploy      │
-└──────┬──────┘
-       ↓
-┌─────────────┐
-│  Production 🚀 │
-└─────────────┘
-```
-
-I like understanding what happens **after the code is written** — hosting, server configuration, domains, SSL, process management, deployment, and production troubleshooting.
-
----
-
-## ☁️ Deployment Experience
-
-<p align="center">
-
-`Vercel` · `Railway` · `AWS` · `Firebase` · `Nginx` · `PM2` · `S3` · `CloudFront`
-
-</p>
-
-I have worked with deployment and server-side setup including environment configuration, domain/DNS setup, reverse proxy configuration, process management, SSL/HTTPS, and production debugging.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hiteshpatidar009&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshpatidar009&layout=compact&hide_border=true" height="165" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshpatidar009&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📚 Currently Improving
-
-I’m continuously improving my skills in:
-
-**React** · **React Native** · **Node.js** · **Backend Architecture** · **Database Design** · **Cloud Deployment** · **System Design** · **Performance Optimization**
-
----
-
-## 🎯 What I Care About
-
-> **Build practical things. Solve real problems. Ship them. Keep improving.**
-
-I value hands-on development and prefer understanding the complete product journey rather than working on only one layer of an application.
-
----
-
-## 🔗 Connect
-
-<div align="center">
-
-<a href="https://hiteshpatidar.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-hiteshpatidar.vercel.app-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/hiteshpatidar009">
-  <img src="https://img.shields.io/badge/GitHub-hiteshpatidar009-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:hiteshpatidar009@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/>
-<br/>
-
-### Thanks for visiting 👋
-
-</div>
